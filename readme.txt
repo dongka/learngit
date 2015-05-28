@@ -3,5 +3,9 @@ Git is free software distributed by GPL;
 git has a mutable index called stage.
 renren is very beautiful
 creating a new branch is quick
-creating a new branch is quick & simple;
+<<<<<<< HEAD
+creating a new branch is quick and simple;
+=======
+creating a new branch is quick and simple;
+>>>>>>> feature1
 git track changes;
