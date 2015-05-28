@@ -9,5 +9,6 @@ creating a new branch is quick and simple;
 creating a new branch is quick and simple;
 >>>>>>> feature1
 chanages;
-i'm at the xiaoli
+i'm at the dev;
+>>>>>>> 3cc1f14a1fe0c0324c7fc3d4908454176fa40ec4
 git track changes;
